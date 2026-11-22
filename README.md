@@ -66,4 +66,4 @@ Compose stack, generator and failure scenarios, consumer with DLQ and dedup, bro
 
 ## License
 
-MIT
+MIT.
